@@ -1,0 +1,9 @@
+{
+  "name": "ai-chatbot-project",
+  "version": "1.0.0",
+  "description": "Beginner-friendly AI chatbot project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
